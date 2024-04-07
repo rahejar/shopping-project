@@ -1,1 +1,1 @@
-# shopping-project
+# shopping-project project
